@@ -1,0 +1,22 @@
+#cats{
+	border-style: double;
+	border-color: darkgrey;
+	border-width: 5px;
+	Padding: 15px;
+}
+#Desc{
+	font-family: 'Rubik Microbe', cursive;
+	font-size: 15px;
+}
+#catbreedname{
+	font-family: 'Solway', serif;
+	font-size: 30px;
+}
+#link{
+	border-style: solid;
+	border-radius: 1px;
+	padding: 10px;
+	Background color: #1AF3B5;
+	display: inline-block;
+	outline: 0;
+}
